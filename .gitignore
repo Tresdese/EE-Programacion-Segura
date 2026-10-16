@@ -1,0 +1,9 @@
+# Compilated files
+
+*.out
+*.o
+*.bin
+
+# Javascript
+
+node_modules/
